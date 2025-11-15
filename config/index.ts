@@ -4,9 +4,9 @@ export const API_KEY = `${process.env.NEXT_PUBLIC_APP_KEY}`
 export const API_URL = `${process.env.NEXT_PUBLIC_API_URL}`
 export const IS_WORKFLOW = `${process.env.NEXT_PUBLIC_APP_TYPE_WORKFLOW}` === 'true'
 export const APP_INFO: AppInfo = {
-  title: 'Text Generator APP',
+  title: 'AI-World-Fitness-Trainer',
   description: 'App description',
-  copyright: '',
+  copyright: 'AI-World',
   privacy_policy: '',
   default_language: 'en-US',
 }
